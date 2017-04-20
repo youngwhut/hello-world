@@ -11,5 +11,5 @@ thanks for the developers make this amazing software;
 ## 优质博客内容
 |  Reference | Reference  |
 | :------------: | :------------: |
-|  [Wscats的GitHub主页](https://github.com/Wscats/Good-text-Share "Wscats的GitHub主页") |   |
+|  [Wscats的GitHub主页](https://github.com/Wscats/Good-text-Share "Wscats的GitHub主页") | [Git和TortoiseGit配置流程](http://www.cnblogs.com/popfisher/p/5466174.html) |
 
