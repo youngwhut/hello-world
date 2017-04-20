@@ -15,3 +15,8 @@ thanks for the developers make this amazing software;
 | :------------: | :------------: |
 |  [Wscats的GitHub主页](https://github.com/Wscats/Good-text-Share "Wscats的GitHub主页") |  |
 
+## 前端开发环境配置
+|Reference|Reference|
+|:-------------:|:------------:|
+|[Nodejs、npm以及gulp的安装](http://www.ydcss.com/archives/18)||
+
