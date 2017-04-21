@@ -21,3 +21,8 @@ thanks for the developers make this amazing software;
 |[Nodejs、npm以及gulp的安装](http://www.ydcss.com/archives/18)|[jQuery模板引擎Handlebars.js](http://www.ghostchina.com/introducing-the-handlebars-js-templating-engine/?qqdrflag=04195)|
 |[jQuery下在移动端实现滚动条IScroll.js插件](http://www.cnblogs.com/starof/p/5215845.html)||
 
+### 前端开发环境配置-CSS
+|Reference|Reference|
+|:-------------:|:------------:|
+|[SASS用法指南](http://www.ruanyifeng.com/blog/2012/06/sass.html)|[SASS官网](http://sass-lang.com/)|
+|[SASS教程](http://www.w3cplus.com/sassguide/index.html)|[]()|
