@@ -19,5 +19,5 @@ thanks for the developers make this amazing software;
 |Reference|Reference|
 |:-------------:|:------------:|
 |[Nodejs、npm以及gulp的安装](http://www.ydcss.com/archives/18)|[jQuery模板引擎Handlebars.js](http://www.ghostchina.com/introducing-the-handlebars-js-templating-engine/?qqdrflag=04195)|
-|[jQUery下在移动端实现滚动条IScroll](http://www.cnblogs.com/starof/p/5215845.html)||
+|[jQuery下在移动端实现滚动条IScroll.js插件](http://www.cnblogs.com/starof/p/5215845.html)||
 
