@@ -18,5 +18,5 @@ thanks for the developers make this amazing software;
 ## 前端开发环境配置
 |Reference|Reference|
 |:-------------:|:------------:|
-|[Nodejs、npm以及gulp的安装](http://www.ydcss.com/archives/18)||
+|[Nodejs、npm以及gulp的安装](http://www.ydcss.com/archives/18)|[jQuery模板引擎Handlebars.js](http://www.ghostchina.com/introducing-the-handlebars-js-templating-engine/?qqdrflag=04195)|
 
