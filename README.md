@@ -27,3 +27,9 @@ thanks for the developers make this amazing software;
 |:-------------:|:------------:|
 |[SASS用法指南](http://www.ruanyifeng.com/blog/2012/06/sass.html)|[SASS官网](http://sass-lang.com/)|
 |[SASS教程](http://www.w3cplus.com/sassguide/index.html)|[]()|
+
+
+##Python技术
+|Reference|Reference|
+|:--------------:|:----------:|
+|[Python抓取漫画图片](https://moshuqi.github.io/2016/06/15/Python爬虫抓取漫画图片/)|[]()|
