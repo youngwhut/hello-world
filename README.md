@@ -14,7 +14,7 @@ thanks for the developers make this amazing software;
 ## 优质博客内容
 |  Reference | Reference  |
 | :------------: | :------------: |
-|  [Wscats的GitHub主页](https://github.com/Wscats/Good-text-Share "Wscats的GitHub主页") |  |
+|  [Wscats的GitHub主页](https://github.com/Wscats/Good-text-Share "Wscats的GitHub主页") |[bubkoo大神](http://bubkoo.com/)|
 
 ## 前端开发环境配置
 |Reference|Reference|
@@ -32,3 +32,8 @@ thanks for the developers make this amazing software;
 |Reference|Reference|
 |:--------------:|:----------:|
 |[Python抓取漫画图片](https://moshuqi.github.io/2016/06/15/Python爬虫抓取漫画图片/)|[]()|
+
+### Web技术杂谈
+|Reference|Reference|
+|:--------------:|:----------:|
+|[Cookie详谈](http://bubkoo.com/2014/04/21/http-cookies-explained/)|[]()|
